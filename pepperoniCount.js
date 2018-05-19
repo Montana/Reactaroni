@@ -5,8 +5,6 @@ import axios from 'axios'
 import base from '../config'
 import { Button } from 'reactstrap';
 
-
-
 class FoodSearch extends Component {
   constructor() {
     super()
