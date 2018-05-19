@@ -1,0 +1,48 @@
+{
+  "users": {
+    "uid" : {
+      "email": "",
+      "calorieGoals": "2000",
+      "meals": {
+        "Feb1417": [,
+          {"foodItems": [
+            {
+              "brand_name": "",
+              "item_id": "",
+              "item_name": "pepperoni",
+              "nf_calories": "number",
+              "qty": "number"
+            },
+            {
+              "brand_name": "",
+              "item_id": "",
+              "item_name": "pepperoni",
+              "nf_calories": "number",
+              "qty": "number"
+            }
+          ],
+          {"totalCalories": "1800"}
+      ],
+        "Feb1517": [,
+          {"foodItems": [,
+            {
+              "brand_name": "",
+              "item_id": "",
+              "item_name": "pepperoni",
+              "nf_calories": "number",
+              "qty": "number"
+            },
+            {
+              "brand_name": "",
+              "item_id": "",
+              "item_name": "pepperoni",
+              "nf_calories": "number",
+              "qty": "number"
+            }
+          ]
+          },
+          {"totalCalories": "1800"}
+      ],
+    }
+  }
+}
